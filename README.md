@@ -42,7 +42,7 @@ The dashboard provides a 360-degree view of the business through four critical a
 **Abdelrahman Khaled**
 *Financial Manager | Financial Data Analyst | Odoo Expert*
 
-* **LinkedIn:** [https://www.linkedin.com/in/abdelrahman-khaled-7706b9156/]
+* **LinkedIn:** [ https://www.linkedin.com/in/abdelrahman-khaled-oo1]
 * **Email:** abdelrahmankhaled001@gmail.com
 * **Location:** Obour City, Cairo, Egypt
 
